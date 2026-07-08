@@ -1,4 +1,4 @@
-### Hi there, I'm Rizky 👋
+### Hi there, I'm Rizky <img width="47" height="32" alt="132" src="https://github.com/user-attachments/assets/98385bbc-1f7b-4f08-a9ea-24feb79d84e9" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rizky_Meiputra_Nugraha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rizky-m-nugraha)](https://linkedin.com/in/rizky-m-nugraha)
 [![GitHub Badge](https://img.shields.io/github/followers/rizkymnugraha?label=Follow&style=flat-square)](https://github.com/rizkymnugraha)
@@ -91,8 +91,9 @@
 
 ## 📊 GitHub Stats
 
-![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkymnugraha&show_icons=true&theme=graywhite&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymnugraha&layout=compact&theme=graywhite&hide_border=true)
+![Rizky's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizkymnugraha&layout=compact&theme=graywhite&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rizkymnugraha&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 
